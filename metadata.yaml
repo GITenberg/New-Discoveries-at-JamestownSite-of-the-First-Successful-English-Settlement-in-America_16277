@@ -1,0 +1,32 @@
+_repo: New-Discoveries-at-JamestownSite-of-the-First-Successful-English-Settlement-in-America_16277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cotter, John L.
+    alias: Cotter, John Lambert
+    gutenberg_agent_id: '6594'
+    url: http://www.gutenberg.org/2009/agents/6594
+  - agent_name: Hudson, J. Paul
+    gutenberg_agent_id: '6595'
+    url: http://www.gutenberg.org/2009/agents/6595
+description: ''
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jamestown (Va.) -- Social life and customs'
+- !lcc 'F206'
+- !lcsh 'Jamestown (Va.) -- History'
+- !lcsh 'Jamestown (Va.) -- Antiquities'
+title: 'New Discoveries at Jamestown
+
+  Site of the First Successful English Settlement in America'
+url: http://www.gutenberg.org/ebooks/16277
